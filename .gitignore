@@ -5,6 +5,7 @@ __pycache__/
 venv/
 myapp/
 
+
 # C extensions
 *.so
 
