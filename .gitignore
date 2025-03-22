@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 venv/
 myapp/
+shoaib/
 
 
 # C extensions
