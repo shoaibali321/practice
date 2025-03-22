@@ -7,5 +7,8 @@ def sub(a,b,d):
 def mul(a,b):
     return a*b
 
+def mul1(a,b):
+    return a*b
+
 def division(a,b):
     return a/b
